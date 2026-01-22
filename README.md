@@ -1,13 +1,14 @@
-<h1 align="center"> Smart E-Commerce & Service Management Platform Tools Final Project </h1>
+<h1 align="center">Smart E-Commerce & Service Management Platform Tools Final Project</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
 Highlights:
 
-- 🌟 Tech stack: MERN + TailwindCSS + Daisy UI
+- 🌟 Tech stack: PERN + TailwindCSS + Daisy UI
 - 🚀 Rate Limiting & Bot Detection
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and client
+
 
 ### Setup .env file
 
