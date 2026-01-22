@@ -1,15 +1,13 @@
-<h1 align="center">✨ PERN Stack Tutorial ✨</h1>
+<h1 align="center"> Smart E-Commerce & Service Management Platform Tools Final Project </h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
 Highlights:
 
-- 🌟 Tech stack: PERN + TailwindCSS + Daisy UI
+- 🌟 Tech stack: MERN + TailwindCSS + Daisy UI
 - 🚀 Rate Limiting & Bot Detection
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and client
-- ⭐ Deployment for FREE!
-- ⏳ And much more!
 
 ### Setup .env file
 
